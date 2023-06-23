@@ -1,0 +1,12 @@
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\bin\Debug\net6.0\Employee.Service.deps.json
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\bin\Debug\net6.0\Employee.Service.dll
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\bin\Debug\net6.0\Employee.Service.pdb
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.csproj.AssemblyReference.cache
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.AssemblyInfoInputs.cache
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.AssemblyInfo.cs
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.csproj.CoreCompileInputs.cache
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.dll
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\refint\Employee.Service.dll
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\Employee.Service.pdb
+C:\Users\dopot\Desktop\PROJECTS\PERSONAL\Techno Brain\Employee.Solution\Employee.Service\obj\Debug\net6.0\ref\Employee.Service.dll
